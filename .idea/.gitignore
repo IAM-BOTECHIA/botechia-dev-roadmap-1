@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/botechia-dev-roadmap-1.iml
+/git_toolbox_blame.xml
+/modules.xml
+/vcs.xml
